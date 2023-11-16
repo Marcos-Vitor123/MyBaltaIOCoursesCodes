@@ -14,5 +14,8 @@ internal class Program
         Console.WriteLine($"\nVariável inteiro do tipo inicialmente({tipo})\n");
         Console.WriteLine($"Variável inteiro do tipo ({tipo}) convertida p/ o tipo ({tipoConvertido}) para ser usado em algo sem comprometer a original\n");
         Console.WriteLine($"Resultado da variável inteiro que agora continua do tipo ({tipoUint})\n");
+
+        Console.WriteLine("Pressione Enter para sair."); 
+        Console.ReadLine(); // Mantém o prompt de comando em execução(aberto) até o usuário pressionar "Enter"
     }
 }
