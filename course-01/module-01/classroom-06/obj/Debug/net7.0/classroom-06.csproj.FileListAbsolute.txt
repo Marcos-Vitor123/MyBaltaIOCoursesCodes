@@ -1,0 +1,14 @@
+C:\GitHub\my-balta-io-courses-codes\course-01\module-01\classroom-06\obj\Debug\net7.0\classroom-06.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\my-balta-io-courses-codes\course-01\module-01\classroom-06\obj\Debug\net7.0\classroom-06.AssemblyInfoInputs.cache
+C:\GitHub\my-balta-io-courses-codes\course-01\module-01\classroom-06\obj\Debug\net7.0\classroom-06.AssemblyInfo.cs
+C:\GitHub\my-balta-io-courses-codes\course-01\module-01\classroom-06\obj\Debug\net7.0\classroom-06.csproj.CoreCompileInputs.cache
+C:\GitHub\my-balta-io-courses-codes\course-01\module-01\classroom-06\bin\Debug\net7.0\classroom-06.exe
+C:\GitHub\my-balta-io-courses-codes\course-01\module-01\classroom-06\bin\Debug\net7.0\classroom-06.deps.json
+C:\GitHub\my-balta-io-courses-codes\course-01\module-01\classroom-06\bin\Debug\net7.0\classroom-06.runtimeconfig.json
+C:\GitHub\my-balta-io-courses-codes\course-01\module-01\classroom-06\bin\Debug\net7.0\classroom-06.dll
+C:\GitHub\my-balta-io-courses-codes\course-01\module-01\classroom-06\bin\Debug\net7.0\classroom-06.pdb
+C:\GitHub\my-balta-io-courses-codes\course-01\module-01\classroom-06\obj\Debug\net7.0\classroom-06.dll
+C:\GitHub\my-balta-io-courses-codes\course-01\module-01\classroom-06\obj\Debug\net7.0\refint\classroom-06.dll
+C:\GitHub\my-balta-io-courses-codes\course-01\module-01\classroom-06\obj\Debug\net7.0\classroom-06.pdb
+C:\GitHub\my-balta-io-courses-codes\course-01\module-01\classroom-06\obj\Debug\net7.0\classroom-06.genruntimeconfig.cache
+C:\GitHub\my-balta-io-courses-codes\course-01\module-01\classroom-06\obj\Debug\net7.0\ref\classroom-06.dll
