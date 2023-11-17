@@ -12,7 +12,7 @@ internal class Program
         string tipoUint = inteiro.GetType().ToString();
 
         Console.WriteLine($"\nVariável inteiro do tipo inicialmente({tipo})\n");
-        Console.WriteLine($"Variável inteiro do tipo ({tipo}) convertida p/ o tipo ({tipoConvertido}) para ser usado em algo sem comprometer a original\n");
+        Console.WriteLine($"Variável inteiro do tipo ({tipo}) convertida para o tipo ({tipoConvertido}) para ser usado em algo sem comprometer a original\n");
         Console.WriteLine($"Resultado da variável inteiro que agora continua do tipo ({tipoUint})\n");
 
         Console.WriteLine("Pressione Enter para sair."); 

@@ -11,7 +11,7 @@ internal class Program
         Console.WriteLine($"\nVariável outro do (tipo int): {outro}\n");
 
         valor = outro; // Conversão implícita
-        Console.WriteLine($"\nConversão implícita da variável valor do (tipo float) p/ o (tipo int): {valor}\n");
+        Console.WriteLine($"\nConversão implícita da variável valor do (tipo float) para o (tipo int): {valor}\n");
 
 
         //outro = valor; // Conversão não aceita
