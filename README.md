@@ -1,6 +1,6 @@
 # My balta.io courses codes
 
-<img src="img\balta.io_logo.png"/>
+<img src="course-01\img\balta.io_logo.png"/>
 
 ## Introduction
 
