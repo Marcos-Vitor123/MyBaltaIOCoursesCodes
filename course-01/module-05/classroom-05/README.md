@@ -1,7 +1,7 @@
 # Variáveis
 
 - É preciso inicializar com algum valor. É recomendado iniciar já com o valor 0; pois pode pegar lixo de memória.
-- 
+- A primeira letra sempre é ***minúscula***
 
 - **Exemplo código**
 
