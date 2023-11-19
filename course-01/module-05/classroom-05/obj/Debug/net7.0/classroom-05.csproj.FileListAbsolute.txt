@@ -1,0 +1,4 @@
+C:\GitHub\my-balta-io-courses-codes\course-01\module-05\classroom-05\obj\Debug\net7.0\classroom-05.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\my-balta-io-courses-codes\course-01\module-05\classroom-05\obj\Debug\net7.0\classroom-05.AssemblyInfoInputs.cache
+C:\GitHub\my-balta-io-courses-codes\course-01\module-05\classroom-05\obj\Debug\net7.0\classroom-05.AssemblyInfo.cs
+C:\GitHub\my-balta-io-courses-codes\course-01\module-05\classroom-05\obj\Debug\net7.0\classroom-05.csproj.CoreCompileInputs.cache
