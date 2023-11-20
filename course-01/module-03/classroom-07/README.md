@@ -21,3 +21,4 @@
         - **Backward Compatibility** Compatível c/ versões anteriores
     - Patch
         - Correções de bugs e afins...
+        
