@@ -5,4 +5,4 @@
 - Pode ser usados no mesmo projeto
 - É uma Surface API ou apenas um contrato e não um **Framework** 
     - A ideia é garantir o funcionamento dos 2 Framework ao mesmo tempo
-
+    ![.NET Standard](..\course-01\img\dotNET_Standard.PNG)
