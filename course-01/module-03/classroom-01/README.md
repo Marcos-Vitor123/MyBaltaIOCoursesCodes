@@ -4,4 +4,4 @@
     - Exemplo o .NET
 - Recursos já utilizados e testados
     - Exemplo funcionalidades prontas
-- Nos poupa tempo de ter que fzaer tudo denovo
+- Nos poupa tempo de ter que fzaer tudo denovo 

@@ -11,3 +11,4 @@
 - É lida,interpletada e executada em ***tempo de execução*** ou seja, tempo real
 - Uma das linguagens é o ***JavaScript***
 
+

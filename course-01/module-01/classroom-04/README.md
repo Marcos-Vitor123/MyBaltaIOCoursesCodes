@@ -16,3 +16,4 @@
     - Otimização não tão boa
     - Não precisa ***compilador***
     
+    
