@@ -13,8 +13,10 @@ internal class Program
         valor = outro; // Conversão implícita
         Console.WriteLine($"\nConversão implícita da variável valor do (tipo float) para o (tipo int): {valor}\n");
 
+    }
+}
 
-        //outro = valor; // Conversão não aceita
+//outro = valor; // Conversão não aceita
         //Console.WriteLine($"\nConversão implícita da variável valor do (tipo float) p/ o (tipo int): {outro}\n");
 
         /*************************************
@@ -27,5 +29,3 @@ internal class Program
         Ocorreu uma falha no build. Corrija os erros de build e execute novamente.
         
         ***************************************/
-    }
-}
