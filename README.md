@@ -12,4 +12,4 @@ My goal here is to add the necessary initial knowledge in the **C# language**.
 
 ## Training: <a href="https://github.com/Marcos-Vitor123/my-balta-io-courses-codes/blob/40390015418c6e201872af19f8409916e74e9e72/course-01">Fundamentals of C#</a>
  
-- ### Module 01 - <a href="https://github.com/Marcos-Vitor123/my-balta-io-courses-codes/blob/eadc58ecae3a36063d90ea491015cbc3e3a6b3d6/course-01/module-05">Programming Language with C#</a>
+- ### Module 01 - [Languages and compilers](./course-01/module-01)
