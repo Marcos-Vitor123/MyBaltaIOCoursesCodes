@@ -8,3 +8,5 @@
         Console.WriteLine($"\nForma correta: {inteiro}\n");
     }
 }
+
+// Esse código pertence a aula 24. Pois foi iniciado e compilado na pasta errada. Logo será redirecionado
