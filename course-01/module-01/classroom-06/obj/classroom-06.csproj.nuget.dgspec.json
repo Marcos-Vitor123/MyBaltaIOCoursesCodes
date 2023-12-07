@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHub\\my-balta-io-courses-codes\\course-01\\module-01\\classroom-06\\classroom-06.csproj": {}
+    "D:\\GitHub\\my-balta-io-courses-codes\\course-01\\module-01\\classroom-06\\classroom-06.csproj": {}
   },
   "projects": {
-    "C:\\GitHub\\my-balta-io-courses-codes\\course-01\\module-01\\classroom-06\\classroom-06.csproj": {
+    "D:\\GitHub\\my-balta-io-courses-codes\\course-01\\module-01\\classroom-06\\classroom-06.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\my-balta-io-courses-codes\\course-01\\module-01\\classroom-06\\classroom-06.csproj",
+        "projectUniqueName": "D:\\GitHub\\my-balta-io-courses-codes\\course-01\\module-01\\classroom-06\\classroom-06.csproj",
         "projectName": "classroom-06",
-        "projectPath": "C:\\GitHub\\my-balta-io-courses-codes\\course-01\\module-01\\classroom-06\\classroom-06.csproj",
+        "projectPath": "D:\\GitHub\\my-balta-io-courses-codes\\course-01\\module-01\\classroom-06\\classroom-06.csproj",
         "packagesPath": "C:\\Users\\Marcos Vitor\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\my-balta-io-courses-codes\\course-01\\module-01\\classroom-06\\obj\\",
+        "outputPath": "D:\\GitHub\\my-balta-io-courses-codes\\course-01\\module-01\\classroom-06\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Marcos Vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
