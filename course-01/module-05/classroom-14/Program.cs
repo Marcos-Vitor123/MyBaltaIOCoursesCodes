@@ -6,20 +6,21 @@ namespace classroom
     {
         private static void Main(string[] args)
         {
-            bool valor = true;
-            var atual = true;
+            bool par = true;
+            var impar = true;
 
             Random numero = new();
-            int sortear = numero.Next(0, 100);
+            int sortear = numero.Next(1, 101);
+            int divisor = sortear / 2;
 
-            if(sortear <= 49)
+            if(sortear % divisor == 0)
             {
-                Console.WriteLine($"\nÉ Verdadeiro se for abaixo de 50 e falso se for acima de 51 até 100 e o atual acompanha o último resultado\n\nO número sorteado é: {sortear}\nPortando o valor é: {valor}\nE o valor atual é: {atual}\n");
+                impar = false;
+                Console.WriteLine($"\nO número sorteado é: {sortear}\n\nParidade PAR é: {par}\nParidade IMPAR é: {impar}\n");
             } else
             {
-                valor = false;
-                atual = false;
-                Console.WriteLine($"\nÉ Verdadeiro se for abaixo de 50 e falso se for acima de 51 até 100 e o atual acompanha o último resultado\n\nO número sorteado é: {sortear}\nPortando o valor é: {valor}\nE o valor atual é: {atual}\n");
+                par = false;
+                Console.WriteLine($"\nO número sorteado é: {sortear}\n\nParidade PAR é: {par}\nParidade IMPAR é: {impar}\n");
             }
         }
     }
