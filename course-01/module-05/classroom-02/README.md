@@ -8,24 +8,24 @@
 - Namespace
     - Divisão lógica
     ```cs
-            namespace MeuApp
-            {
+        namespace MeuApp
+        {
 
-            }
+        }
     ```
 - Classe
     - Programa
     ```cs
-                class Program
-                {
+        class Program
+        {
 
-                }
+        }
     ```
 - Método principal
     - Método `Main`
     ```cs
-                    static void Main(string[] args)
-                    {
+        static void Main(string[] args)
+        {
 
-                    }
+        }
     ```
