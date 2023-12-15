@@ -7,7 +7,7 @@ namespace classroom
         private static void Main(string[] args)
         {
             bool par = true;
-            var impar = true;
+            var impar = true; // do tipo "Var" Apenas para fins de estudos
 
             Random numero = new();
             int sortear = numero.Next(1, 101);
@@ -16,11 +16,11 @@ namespace classroom
             if(sortear % divisor == 0)
             {
                 impar = false;
-                Console.WriteLine($"\nO número sorteado é: {sortear}\n\nParidade PAR é: {par}\nParidade IMPAR é: {impar}\n");
+                Console.WriteLine($"\n\tNúmeros sorteados de 1 a 100\n\nO número sorteado é: {sortear}\n\nParidade PAR é: {par}\nParidade IMPAR é: {impar}\n");
             } else
             {
                 par = false;
-                Console.WriteLine($"\nO número sorteado é: {sortear}\n\nParidade PAR é: {par}\nParidade IMPAR é: {impar}\n");
+                Console.WriteLine($"\n\tNúmeros sorteados de 1 a 100\n\nO número sorteado é: {sortear}\n\nParidade PAR é: {par}\nParidade IMPAR é: {impar}\n");
             }
         }
     }
