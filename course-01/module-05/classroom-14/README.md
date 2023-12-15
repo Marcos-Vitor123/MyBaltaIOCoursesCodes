@@ -1,2 +1,2 @@
 # Boolean
-- Armazena apenas os valores `true`  e `false`
+- Armazena apenas os valores `true` ou `false`
