@@ -6,14 +6,10 @@ namespace Classroom
     {
         private static void Main(string[] args)
         {
-            char letraA = 'a';
-            char letraE = 'e';
-            char letraI = 'i';
-            char letraO = 'o';
-            var letraU = 'u'; // Apenas para práticas
+            char letra1 = 'a';
+            var letra2 = 'u'; // Apenas para práticas
 
-            Console.WriteLine("\n\tVogais\n");
-            Console.WriteLine($"As vogais são constituídas pelas letras: {letraA}, {letraE}, {letraI}, {letraO}, {letraU}\n");
+            Console.WriteLine($"\nExibindo char: {letra1}\nExibindo: var: {letra2}\n");
         }
     }
 }
