@@ -1,0 +1,2 @@
+#String
+- Cadeia de caracteres
