@@ -24,3 +24,4 @@
 - ### Aula 22 - [Conversão implícita](./classroom-22)
 - ### Aula 23 - [Conversão explícita](./classroom-23)
 - ### Aula 24 - [Parse](./classroom-24)
+- ### Aula 25 - [Convert](./classroom-25)
