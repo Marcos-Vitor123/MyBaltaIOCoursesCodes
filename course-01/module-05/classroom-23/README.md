@@ -1,5 +1,6 @@
 #  Conversão explícita
 - Conversão entre tipos **não compatíveis**
+- É preciso declarar o tipo nas conversões de forma **explícita**
 - Exemplo:
   ```cs
     int inteiro = 100;
