@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\my-balta-io-courses-codes\\course-01\\module-05\\classroom-23\\classroom-23.csproj": {}
+    "D:\\GitHub\\MyBaltaIOCoursesCodes\\course-01\\module-05\\classroom-23\\classroom-23.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\my-balta-io-courses-codes\\course-01\\module-05\\classroom-23\\classroom-23.csproj": {
+    "D:\\GitHub\\MyBaltaIOCoursesCodes\\course-01\\module-05\\classroom-23\\classroom-23.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\my-balta-io-courses-codes\\course-01\\module-05\\classroom-23\\classroom-23.csproj",
+        "projectUniqueName": "D:\\GitHub\\MyBaltaIOCoursesCodes\\course-01\\module-05\\classroom-23\\classroom-23.csproj",
         "projectName": "classroom-23",
-        "projectPath": "D:\\GitHub\\my-balta-io-courses-codes\\course-01\\module-05\\classroom-23\\classroom-23.csproj",
+        "projectPath": "D:\\GitHub\\MyBaltaIOCoursesCodes\\course-01\\module-05\\classroom-23\\classroom-23.csproj",
         "packagesPath": "C:\\Users\\Marcos Vitor\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\my-balta-io-courses-codes\\course-01\\module-05\\classroom-23\\obj\\",
+        "outputPath": "D:\\GitHub\\MyBaltaIOCoursesCodes\\course-01\\module-05\\classroom-23\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Marcos Vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",

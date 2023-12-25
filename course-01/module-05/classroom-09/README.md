@@ -4,7 +4,7 @@
     - `int`
     - `float`
     - `decimal`
-    - `strig`
+    - `string`
     - E mais...
 - Existem também os não **Primitivos** conhecidos como **Complexos**
 - Armazenam apenas o valor **Tipos de Valor**
