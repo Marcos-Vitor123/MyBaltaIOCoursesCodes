@@ -16,7 +16,7 @@ internal class Program
     }
 }
 
-//outro = valor; // Conversão não aceita
+        //outro = valor; // Conversão não aceita
         //Console.WriteLine($"\nConversão implícita da variável valor do (tipo float) p/ o (tipo int): {outro}\n");
 
         /*************************************

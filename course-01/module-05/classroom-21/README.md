@@ -1,4 +1,4 @@
-# Valores padrão
+# Valores padrões
 - Valores de tipos que sempre gerará uma valor, caso não seja passado algum valor
   - Exemplo:
     - `int inteiro;` Recebe por padrão o valor: 0
