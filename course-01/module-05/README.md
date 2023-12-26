@@ -25,3 +25,4 @@
 - ### Aula 23 - [Conversão explícita](./classroom-23)
 - ### Aula 24 - [Parse](./classroom-24)
 - ### Aula 25 - [Convert](./classroom-25)
+- ### Aula 26 - [Convertendo tipos](./classroom-26)
