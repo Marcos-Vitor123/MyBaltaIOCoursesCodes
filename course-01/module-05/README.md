@@ -26,3 +26,5 @@
 - ### Aula 24 - [Parse](./classroom-24)
 - ### Aula 25 - [Convert](./classroom-25)
 - ### Aula 26 - [Convertendo tipos](./classroom-26)
+- ### Aula 27 - [Operadores aritméticos](./classroom-27)
+
