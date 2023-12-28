@@ -27,4 +27,5 @@
 - ### Aula 25 - [Convert](./classroom-25)
 - ### Aula 26 - [Convertendo tipos](./classroom-26)
 - ### Aula 27 - [Operadores aritméticos](./classroom-27)
+- ### Aula 28 - [Operadores de atribuição](./classroom-28)  
 
