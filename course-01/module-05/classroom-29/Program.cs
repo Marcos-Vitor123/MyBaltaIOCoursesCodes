@@ -9,23 +9,23 @@ namespace classroom
             int x = 100;
             Console.WriteLine($"O valor de x é: {x}");
 
-            bool result1 = x == 0;
-            Console.WriteLine($"O valor de x é: {x}, portanto o valor de comparação é: {result1}");
+            bool result = x == 0;
+            Console.WriteLine($"O valor de x é: {x}, portanto o valor de comparação é: {result}");
 
-            bool result2 = x != 0;
-            Console.WriteLine($"O valor de x é: {x}, portanto o valor de comparação é: {result2}");
+            result = x != 0;
+            Console.WriteLine($"O valor de x é: {x}, portanto o valor de comparação é: {result}");
 
-            bool result3 = x > 0;
-            Console.WriteLine($"O valor de x é: {x}, portanto o valor de comparação é: {result3}");
+            result = x > 0;
+            Console.WriteLine($"O valor de x é: {x}, portanto o valor de comparação é: {result}");
 
-            bool result4 = x < 0;
-            Console.WriteLine($"O valor de x é: {x}, portanto o valor de comparação é: {result4}");
+            result = x < 0;
+            Console.WriteLine($"O valor de x é: {x}, portanto o valor de comparação é: {result}");
 
-            bool result5 = x >= 0;
-            Console.WriteLine($"O valor de x é: {x}, portanto o valor de comparação é: {result5}");
+            result = x >= 0;
+            Console.WriteLine($"O valor de x é: {x}, portanto o valor de comparação é: {result}");
 
-            bool result6 = x <= 0;
-            Console.WriteLine($"O valor de x é: {x}, portanto o valor de comparação é: {result6}");
+            result = x <= 0;
+            Console.WriteLine($"O valor de x é: {x}, portanto o valor de comparação é: {result}");
         }
     }
 }
