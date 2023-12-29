@@ -28,5 +28,5 @@
 - ### Aula 26 - [Convertendo tipos](./classroom-26)
 - ### Aula 27 - [Operadores aritméticos](./classroom-27)
 - ### Aula 28 - [Operadores de atribuição](./classroom-28)
-- ### Aula 29 - [Operadoções de Comparação](./classroom-29)
+- ### Aula 29 - [Operações de Comparação](./classroom-29)
 
