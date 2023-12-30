@@ -7,25 +7,14 @@ namespace classroom
         private static void Main(string[] args)
         {
             int x = 100;
-            Console.WriteLine($"O valor de x é: {x}");
+            Console.WriteLine($"O valor inicializado de x é: {x}\n");
 
-            bool result = x == 0;
-            Console.WriteLine($"O valor de x é: {x}, portanto o valor de comparação é: {result}");
-
-            result = x != 0;
-            Console.WriteLine($"O valor de x é: {x}, portanto o valor de comparação é: {result}");
-
-            result = x > 0;
-            Console.WriteLine($"O valor de x é: {x}, portanto o valor de comparação é: {result}");
-
-            result = x < 0;
-            Console.WriteLine($"O valor de x é: {x}, portanto o valor de comparação é: {result}");
-
-            result = x >= 0;
-            Console.WriteLine($"O valor de x é: {x}, portanto o valor de comparação é: {result}");
-
-            result = x <= 0;
-            Console.WriteLine($"O valor de x é: {x}, portanto o valor de comparação é: {result}");
+            Console.WriteLine($"O valor de comparação de x é: {x == 0}");
+            Console.WriteLine($"O valor de comparação de x é: {x != 0}");
+            Console.WriteLine($"O valor de comparação de x é: {x > 0}");
+            Console.WriteLine($"O valor de comparação de x é: {x < 0}");
+            Console.WriteLine($"O valor de comparação de x é: {x >= 0}");
+            Console.WriteLine($"O valor de comparação de x é: {x <= 0}");
         }
     }
 }
