@@ -30,4 +30,5 @@
 - ### Aula 28 - [Operadores de atribuição](./classroom-28)
 - ### Aula 29 - [Operações de Comparação](./classroom-29)
 - ### Aula 30 - [Utilizando operadores](./classroom-30)
+- ### Aula 31 - [Operadores Lógicos](./classroom-30)
 
