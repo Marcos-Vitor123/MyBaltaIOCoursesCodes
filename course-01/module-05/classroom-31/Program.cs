@@ -24,14 +24,7 @@ namespace classroom
             Console.WriteLine($"Resultado verdadeiro: \t{negacao}");
 
             negacao = !(x != 80);
-            Console.WriteLine($"Resultado falso: \t{negacao}");
-
-           
-            
-            
-            
-            
-            
+            Console.WriteLine($"Resultado falso: \t{negacao}");   
         }
     }
 }
