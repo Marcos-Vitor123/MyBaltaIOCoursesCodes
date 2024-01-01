@@ -31,4 +31,5 @@
 - ### Aula 29 - [Operações de Comparação](./classroom-29)
 - ### Aula 30 - [Utilizando operadores](./classroom-30)
 - ### Aula 31 - [Operadores Lógicos](./classroom-31)
+- ### Aula 32 - [Operador condicional: IF](./classroom-32)
 
