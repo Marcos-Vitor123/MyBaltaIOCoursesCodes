@@ -33,5 +33,5 @@
 - ### Aula 31 - [Operadores Lógicos](./classroom-31)
 - ### Aula 32 - [Operador condicional: IF](./classroom-32)
 - ### Aula 33 - [Utilizando IF](./classroom-33)
-- ### Aula 33 - [Estrutura condicional: Switch](./classroom-34) 
+- ### Aula 34 - [Estrutura condicional: Switch](./classroom-34) 
 
