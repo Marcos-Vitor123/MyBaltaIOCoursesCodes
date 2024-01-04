@@ -34,4 +34,5 @@
 - ### Aula 32 - [Operador condicional: IF](./classroom-32)
 - ### Aula 33 - [Utilizando IF](./classroom-33)
 - ### Aula 34 - [Estrutura condicional: Switch](./classroom-34) 
+- ### Aula 35 - [Laços de repetição: For: Switch](./classroom-35)
 
