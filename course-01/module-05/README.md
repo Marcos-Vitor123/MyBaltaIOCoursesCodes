@@ -38,3 +38,4 @@
 - ### Aula 36 - [Laços de repetição: While](./classroom-36) 
 - ### Aula 37 - [Laços de repetição: Do/While](./classroom-37) 
 - ### Aula 38 - [Métodos e funções](./classroom-38)
+- ### Aula 39 - [Métodos e funções: Prática](./classroom-39)
