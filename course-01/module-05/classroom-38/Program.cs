@@ -11,9 +11,9 @@ namespace classroom
             Console.WriteLine(storeMyMethodReturn);
         }
 
-        private static void MyMethod(string inteiro)
+        private static void MyMethod(string value)
         {
-            Console.WriteLine(inteiro);
+            Console.WriteLine(value);
         }
 
         private static string MyMethodReturn(string first, string second)
