@@ -39,3 +39,4 @@
 - ### Aula 37 - [Laços de repetição: Do/While](./classroom-37) 
 - ### Aula 38 - [Métodos e funções](./classroom-38)
 - ### Aula 39 - [Métodos e funções: Prática](./classroom-39)
+- ### Aula 40 - [Tipos de referência e tipos de valor](./classroom-40)
