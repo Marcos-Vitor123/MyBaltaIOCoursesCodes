@@ -1,6 +1,7 @@
 # Tipos de referência e tipos de valor
 ##Memória é dividida em 2
 - **Heap**
+  - **Value Reference**
   - Armazena **dados**
   - Guarda o **endereço** dos dados em uso
   - Local da memória
