@@ -9,7 +9,7 @@ namespace classroom
             // Value Type - Stack
 
             int x = 100;
-            int y = x;
+            int y = x; // Recebe uma cópia, isso replica e ainda pode encher memória
 
             Console.WriteLine($"L 14: {x}"); // 100
             Console.WriteLine($"L 15: {y}"); // 100
@@ -24,7 +24,7 @@ namespace classroom
             var arr = new string[2];
             arr[0] = "Item1";
             arr[1] = "Item2";
-            var arr2 = arr;
+            var arr2 = arr; // Recbe somente o endereço e quando alterado                                                                                                                                                                                                                                                          
             
 
             Console.WriteLine($"L 29: {arr[0]}"); // Item1
@@ -39,4 +39,6 @@ namespace classroom
 
             Console.WriteLine($"L 38: {arr[1]}");
             Console.WriteLine($"L 39: {arr2[1]}");
-            }}}
+        }
+    }
+}
