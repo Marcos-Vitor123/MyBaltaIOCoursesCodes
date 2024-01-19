@@ -9,10 +9,10 @@ namespace Classroom
             // Criando uma estrutura
             var product = new Product(1, "Mouse Gamer", 128.75f); // Passando valores as variáveis de parâmetros da função
 
-            Console.WriteLine(product.Id); // Exibindo a propriedade Id
-            Console.WriteLine(product.Title); // Exibindo a propriedade Title
-            Console.WriteLine(product.Price); // Exibindo a propriedade Price
-            Console.WriteLine(product.priceInDolar(5.70f)); // Chamando o método ou função e passando valor via parâmetro
+            Console.WriteLine($"Id: \t\t{product.Id}"); // Exibindo a propriedade Id
+            Console.WriteLine($"Title: \t\t{product.Title}"); // Exibindo a propriedade Title
+            Console.WriteLine($"Price: \t\t{product.Price}"); // Exibindo a propriedade Price
+            Console.WriteLine($"Em dólar: \t{product.priceInDolar(5.70f)}"); // Chamando o método ou função e passando valor via parâmetro
         }
 
         struct Product
