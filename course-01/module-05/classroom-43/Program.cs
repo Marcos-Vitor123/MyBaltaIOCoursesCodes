@@ -6,30 +6,27 @@ namespace Classroom
     {
         private static void Main(string[] args)
         {
-            var modelo = new Carro("Ferrari", "Vermelho", 1000000.00m);
-            var modelo2 = new Carro("Porche", "Azul", 200000.00m);
+            var pessoa = new Pessoa("Marcos", 34);
+            var pessoa2 = new Pessoa("Amara", 33);
 
-            Console.WriteLine($"Modelo: {modelo.Nome}");
-            Console.WriteLine($"Cor: {modelo.Cor}");
-            Console.WriteLine($"Valor: {modelo.Valor}\n");
+            Console.WriteLine($"{pessoa.Nome}, {pessoa.Idade}");
 
-            Console.WriteLine($"Modelo: {modelo2.Nome}");
-            Console.WriteLine($"Cor: {modelo2.Cor}");
-            Console.WriteLine($"Valor: {modelo2.Valor}");
+            Console.WriteLine($"{pessoa2.Nome}, {pessoa2.Idade}");
+
         }
 
-        struct Carro 
+        struct Pessoa
         {
-            public string Nome, Cor;
-            public decimal Valor;
+            // Propriedades, Precisa iniciar com maiúscula
+            public string Nome; 
+            public int Idade;            
 
-            public Carro(string nome, string cor, decimal valor)
+            //Método construtor, Precisa ser com inicial maiúscula
+            public Pessoa(string nome, int idade) // Convenção para criar variável com inicial minúscula para fins de identificação
             {
                 Nome = nome;
-                Cor = cor;
-                Valor = valor;
+                Idade = idade;
             }
         }
-
     }
 }
