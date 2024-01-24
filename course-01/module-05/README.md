@@ -40,3 +40,7 @@
 - ### Aula 38 - [Métodos e funções](./classroom-38)
 - ### Aula 39 - [Métodos e funções: Prática](./classroom-39)
 - ### Aula 40 - [Tipos de referência e tipos de valor](./classroom-40)
+- ### Aula 41 - [Value Types e Reference Types: Prática](./classroom-41)
+- ### Aula 42 - [Structs](./classroom-42)
+- ### Aula 43 - [Structs: Prática](./classroom-43)
+- ### Aula 44 - [Enumeradores](./classroom-44)
