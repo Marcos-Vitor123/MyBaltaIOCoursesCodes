@@ -1,47 +1,47 @@
 # Structs
 
 - Sintaxe básica
-  - Propriedades, Precisa iniciar com maiúscula
+  - **Propriedades**, Precisa iniciar com ***maiúscula***
     ```cs
-        struct Pessoa
+        struct NomeDaEstrutura
         { 
-            public string Nome; 
-            public int Idade;   
+            public string NomeDaVariavel; 
+            public int OutraVariavel;   
         }
     ```
-  - Método construtor, Precisa ser com inicial maiúscula
+  - **Método construtor**, ***Precisa*** ser com inicial ***maiúscula***
     ```cs
-        struct Pessoa
+        struct NomeDaEstrutura
         {
-            public Pessoa(string nome, int idade) // Convenção para criar variável com inicial minúscula para fins de identificação
+            public NomeDaEstrutura(string nomeDaVariavel, int OutraVariavel) // Convenção para criar variável com inicial minúscula para fins de identificação
             {
-                Nome = nome;
-                Idade = idade;
+                NomeDaVariavel = nomeDaVariavel;
+                OutraVariavel = outraVariavel;
             }
         }
     ```
-  - Métodos ou funções, Não precisa ser com inicial maiúscula
+  - **Métodos** ou **funções**, ***Não precisa*** ser com inicial ***maiúscula***
     ```cs
-        struct Moeda
+        struct NomeDaEstrutura
         {
-            public Real;
-            public int Conversor(int dolar) // Função no qual retorna valor de um tipo específico
+            public NomeDaVariavel;
+            public int NomeDaFuncao(int nomeDaVariavel) // Função no qual retorna valor de um tipo específico
             {
-                return Real * dolar;
+                return NomeDaVariavel * nomeDaVariavel; // Realiza uma operação
             } 
         }
     ``` 
-- Para chamar a estrutura
+- Para chamar a **estrutura**
   - Invocando a struct: **Método Contrutor**
     ```cs
         internal class Program
         {
             private static void Main(string[] args)
             {
-                var pessoa = new Pessoa()
+                var nomeDaEstrutura = new NomeDaEstrutura()
                 {
-                    Console.WriteLine(pessoa.Nome);
-                    Console.WriteLine(pessoa.Idade);
+                    Console.WriteLine(nomeDaEstrutura.nomeDaVariavel);
+                    Console.WriteLine(nomeDaEstrutura.OutraVariavel);
                 }
             }
         }
