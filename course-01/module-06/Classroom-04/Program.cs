@@ -1,12 +1,10 @@
-﻿using System;
-
-namespace Classroom 
+﻿namespace Classroom 
 {
     internal class Program
     {
         private static void Main(string[] args)
         {
-            Divisao();
+            Multiplicacao();
         }
 
         static void Soma()
@@ -53,6 +51,22 @@ namespace Classroom
 
             float resultado = valor1 / valor2;
             Console.WriteLine($"O Resultado é: {resultado}");
+
+            Console.ReadKey();
+        }
+
+        static void Multiplicacao()
+        {
+            Console.Clear();
+            
+            Console.Write("Digite o primeiro valor: ");
+            float valor1 = float.Parse(Console.ReadLine());
+
+            Console.Write("Digite o segundo valor: ");
+            float valor2 = float.Parse(Console.ReadLine());
+
+            float resultado = valor1 * valor2;
+            Console.WriteLine($"O resultado da multiplicação é: {resultado}");
 
             Console.ReadKey();
         }
