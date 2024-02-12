@@ -18,7 +18,16 @@ namespace Classroom
             Console.WriteLine("3 - Divisão");
             Console.WriteLine("4 - Multiplicação");
             Console.WriteLine("");
-            short resultado = short.Parse(Console.ReadLine());
+            short operacao = short.Parse(Console.ReadLine());
+
+            switch(operacao)
+            {
+                case 1: Soma(); break;
+                case 2: Subtracao(); break;
+                case 3: Divisao(); break;
+                case 4: Multiplicacao(); break;
+                default: Menu(); break;
+            }
         }
 
         static void Soma()
