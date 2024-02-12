@@ -23,10 +23,10 @@ namespace Classroom
 
             switch(operacao)
             {
-                case 1: Soma(); break;
-                case 2: Subtracao(); break;
-                case 3: Divisao(); break;
-                case 4: Multiplicacao(); break;
+                case 1: Soma(); Menu(); break;
+                case 2: Subtracao(); Menu(); break;
+                case 3: Divisao(); Menu(); break;
+                case 4: Multiplicacao(); Menu(); break;
                 case 5: System.Environment.Exit(0); break;
                 default: Menu(); break;
             }
