@@ -35,7 +35,11 @@ namespace TextEditor
 
         static void Editar()
         {
-            Console.WriteLine("Editar");
+            Console.Clear();
+            Console.WriteLine("Digite seu texto abaixo!");
+            Console.WriteLine("------------------------");
+
+            // Continução em breve!
         }
     }
 }
