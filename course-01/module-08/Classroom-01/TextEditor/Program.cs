@@ -39,7 +39,7 @@ namespace TextEditor
             Console.WriteLine("Digite seu texto abaixo (ESC Para sair)");
             Console.WriteLine("------------------------");
 
-            // Continução em breve!
+            // Continuação em breve!
         }
     }
 }

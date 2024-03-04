@@ -40,13 +40,10 @@ namespace TextEditor
             Console.WriteLine("------------------------");
 
             string text = "";
-
+            
             while(Console.ReadKey().Key != ConsoleKey.Escape)
-            {
-                Console.WriteLine("A tecla ESC ainda não foi pressionada!");
-            }
 
-            // Continução em breve!
+            // Continuação em breve!
         }
     }
 }
