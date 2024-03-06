@@ -53,5 +53,17 @@ namespace TextEditor
 
             // Continuação em breve!
         }
+
+        static void Salvar(string text)
+        {
+            Console.Clear();
+            Console.WriteLine("Qual o caminho para salvar o arquivo?");
+            var path = Console.ReadLine(); // Vai receber o caminho na variável "path"
+
+            using(new StreamWrite(path)) // Essa função fecha tudo o que é aberto em .NET
+            {
+                file.Write(text);
+            }
+        }
     }
 }
