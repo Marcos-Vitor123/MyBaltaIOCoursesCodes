@@ -60,10 +60,12 @@ namespace TextEditor
             Console.WriteLine("Qual o caminho para salvar o arquivo?");
             var path = Console.ReadLine(); // Vai receber o caminho na variável "path"
 
-            using(new StreamWrite(path)) // Essa função fecha tudo o que é aberto em .NET
+            using(var file = new StreamWrite(path)) // Essa função fecha tudo o que é aberto em .NET
             {
-                file.Write(text);
+                file.Write(text); // Escrever no arquivo "text"
             }
         }
     }
 }
+
+// StreamWrite - Classe que representa um escritor de fluxo de texto e ele escreve um texto no arquivo apontado em seu parâmetro
