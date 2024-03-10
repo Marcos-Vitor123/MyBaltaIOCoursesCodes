@@ -33,18 +33,6 @@ namespace TextEditor
         {
             Console.WriteLine("Abrir");
             Console.Clear();
-            Console.WriteLine("Qual o caminho do arquivo?");
-            string path = Console.ReadLine();
-
-            using (var file = new StreamReader(path)) //Ler ou salvar um arquivo
-            {
-                string text = file.ReadToEnd();
-                Console.WriteLine(text);
-            }
-
-            Console.WriteLine("");
-            Console.ReadLine();
-            Menu();
         }
 
         static void Editar()
@@ -74,7 +62,7 @@ namespace TextEditor
             Console.WriteLine("Qual o caminho para salvar o arquivo?");
             var path = Console.ReadLine(); // Vai receber o caminho na variável "path"
 
-            using(var file = new StreamWrite(path)) // Essa função fecha tudo o que é aberto em .NET
+            using(var file = new StreamWriter(path)) // Essa função fecha tudo o que é aberto em .NET
             {
                 file.Write(text); // Escrever no arquivo "text"
             }
