@@ -1,2 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+namespace Classroom 
+{
+    internal class Program
+    {
+        private static void Main(string[] args)
+        {
+            var texto = "CSharp é o máximo";
+
+            Console.WriteLine(texto.IndexOf("é"));
+        }
+    }
+}
