@@ -6,7 +6,7 @@ namespace Classroom
     {
         private static void Main(string[] args)
         {
-            var texto = "CSharp é o máximo";
+            var texto = " CSharp é o máximo ";
             Console.WriteLine(texto.Replace("CSharp", "C#"));
             Console.WriteLine(texto.Replace("o", "X"));
 
@@ -18,6 +18,8 @@ namespace Classroom
 
             var resultado = texto.Substring(11, 6);
             Console.WriteLine(resultado);
+
+            Console.WriteLine(texto.Trim()); // Remove espaço do início e fim
         }
     }
 }
