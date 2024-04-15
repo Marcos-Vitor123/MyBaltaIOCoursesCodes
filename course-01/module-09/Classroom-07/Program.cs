@@ -15,6 +15,9 @@ namespace Classroom
             Console.WriteLine(divisao[1]);
             Console.WriteLine(divisao[2]);
             Console.WriteLine(divisao[3]);
+
+            var resultado = texto.Substring(11, 6);
+            Console.WriteLine(resultado);
         }
     }
 }
