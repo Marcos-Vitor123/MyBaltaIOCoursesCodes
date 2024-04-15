@@ -8,6 +8,7 @@ namespace Classroom
         {
             var texto = "CSharp é o máximo";
             Console.WriteLine(texto.Replace("CSharp", "C#"));
+            Console.WriteLine(texto.Replace("o", "X"));
         }
     }
 }
