@@ -16,6 +16,13 @@ namespace EditorHtml
 
         public static void DrawScreem()
         {
+            Linha();
+            Coluna();
+            Linha();
+        }
+
+        public static void Linha()
+        {
             Console.Write("+");
 
             for (int i = 0; i <= 30; i++)
@@ -24,6 +31,23 @@ namespace EditorHtml
             }
 
             Console.Write("+");
+            Console.Write("\n");
+        }
+
+        public static void Coluna()
+        {
+            for (int lines = 0; lines <= 10; lines++)
+            {
+                Console.Write("|");
+                
+                for (int i = 0; i <= 30; i++)
+                {
+                    Console.Write(" ");
+                }
+
+                Console.Write("|");
+                Console.Write("\n");
+            }
         }
     }
 }
