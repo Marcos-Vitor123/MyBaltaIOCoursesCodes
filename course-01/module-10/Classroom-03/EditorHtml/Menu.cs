@@ -14,7 +14,7 @@ namespace EditorHtml
             Console.ReadKey();
 
             var option = short.Parse(Console.ReadLine());
-            Menu();
+            EscolhaMenu(option);
         }
 
         public static void DrawScreem()
@@ -71,18 +71,21 @@ namespace EditorHtml
             Console.Write("Opção: ");
         }
 
-        public static void Menu()
+        public static void EscolhaMenu(short option)
         {
             switch(option)
             {
-                case: 0
+                case 0:
                     Console.WriteLine("Sair");
                     break;
-                case: 1
+                case 1:
                     Console.WriteLine("Novo Arquivo");
                     break;
-                case: 2
+                case 2:
                     Console.WriteLine("Abrir");
+                    break;
+                default:
+                    Console.WriteLine("Opção inválida!");
                     break;
             }
         }
