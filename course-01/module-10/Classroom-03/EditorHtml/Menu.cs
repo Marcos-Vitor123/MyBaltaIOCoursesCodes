@@ -67,7 +67,9 @@ namespace EditorHtml
             Console.WriteLine("1 - Novo Arquivo");
             Console.SetCursorPosition(3,9);
             Console.WriteLine("2 - Abrir");
-            Console.SetCursorPosition(3,11);
+            Console.SetCursorPosition(3,10);
+            Console.WriteLine("3 - Salvar");
+            Console.SetCursorPosition(3,12);
             Console.Write("Opção: ");
         }
 
