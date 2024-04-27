@@ -81,7 +81,7 @@ namespace EditorHtml
                     Console.WriteLine("Sair");
                     break;
                 case 1:
-                    Console.WriteLine("Novo Arquivo");
+                    Editor.Show();
                     break;
                 case 2:
                     Console.WriteLine("Abrir");
