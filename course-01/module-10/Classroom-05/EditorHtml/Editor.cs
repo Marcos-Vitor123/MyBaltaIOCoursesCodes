@@ -3,7 +3,7 @@ using System.Text;
 
 namespace EditorHtml
 {
-    public static class EditorHtml
+    public static class Editor
     {
         public static void Show()
         {
