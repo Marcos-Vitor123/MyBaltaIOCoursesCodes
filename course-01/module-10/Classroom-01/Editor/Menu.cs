@@ -6,7 +6,23 @@ namespace EditorHtml
     {
         public static void Show()
         {
-            Console.WriteLine("Teste");
+            Console.Clear();
+
+            Console.BackgroundColor = ConsoleColor.Black;
+            Console.ForegroundColor = ConsoleColor.Green;
+
+            Console.WriteLine
+            (@"
+            ********************************
+            *                              *
+            *    Teste linha 1             *
+            *    teste linha 2             *  
+            *    teste linha 3             *
+            *    e assim por diante...     *
+            *                              *    
+            ********************************
+            ");
+            Console.ReadKey();
         }
     }
 }
