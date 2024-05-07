@@ -10,18 +10,22 @@ namespace EditorHtml
 
             Console.BackgroundColor = ConsoleColor.Black;
             Console.ForegroundColor = ConsoleColor.Green;
+            Console.WindowHeight = 100;
+            Console.WindowWidth = 100;
 
             Console.WriteLine
             (@"
-            ********************************
-            *                              *
-            *    Teste linha 1             *
-            *    teste linha 2             *  
-            *    teste linha 3             *
-            *    e assim por diante...     *
-            *                              *    
-            ********************************
+                ********************************
+                *                              *
+                *    Teste linha 1             *
+                *    teste linha 2             *  
+                *    teste linha 3             *
+                *    e assim por diante...     *
+                *                              *    
+                ********************************
+                
             ");
+            
             Console.ReadKey();
         }
     }
