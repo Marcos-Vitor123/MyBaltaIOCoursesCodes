@@ -17,3 +17,4 @@ My goal here is to add the necessary initial knowledge in the **C# language**.
 - ### Module 03 - [Frameworks](./course-01/module-03)
 - ### Module 04 - [.NET](./course-01/module-04)
 - ### Module 05 - [Programming Language with C#](./course-01/module-05)
+- ### Module 06 - 
