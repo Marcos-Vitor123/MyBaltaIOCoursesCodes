@@ -10,8 +10,8 @@ namespace EditorHtml
 
             Console.BackgroundColor = ConsoleColor.Black;
             Console.ForegroundColor = ConsoleColor.Green;
-            Console.WindowHeight = 1000;
-            Console.WindowWidth = 1000;
+            Console.WindowHeight = 1600;
+            Console.WindowWidth = 900;
 
             Console.WriteLine
             (@"
